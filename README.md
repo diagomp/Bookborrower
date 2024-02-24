@@ -1,6 +1,6 @@
 # Bookborrower
 ### A simple application to export to PDF those documents that are not supposed to be exported in PDF
-There are some book pages that let you visualize books but don't allow you to export to PDF files. This application solve this problem by systematically capturing screenshots of the pages and saving them as a PDF.
+There are some book pages that let you visualize books but don't allow you to export them to PDF. Bookborrower solve this problem by systematically capturing screenshots of the pages and saving them as a PDF.
 
 ### How to use Bookborrower
 #### Run the application (without coding)
