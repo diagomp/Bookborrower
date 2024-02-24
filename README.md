@@ -28,9 +28,9 @@ Once you have the application running, follow this steps to actualy get your boo
 
 ### Known issues
 This app was developed rapidly to use its functionality as soon as posible. This means there is a lot of things to do to make it a usable application for the general public. Behind is a list of things I want to work on sooner or later.
--[] Create a Graphical User Interface for easy usage of the application and manipulation of the variables (title, number of pages...).
--[] Avoid having to locate the GUI in some strange position on the screen by hiding it when a screenshot is taken.
--[] Improve performance by reading the screen only when it is needed (when positioning the book page in the window, and when taking a screenshot).
+-[ ] Create a Graphical User Interface for easy usage of the application and manipulation of the variables (title, number of pages...).
+-[ ] Avoid having to locate the GUI in some strange position on the screen by hiding it when a screenshot is taken.
+-[ ] Improve performance by reading the screen only when it is needed (when positioning the book page in the window, and when taking a screenshot).
 
 ### License
 This project is [MIT Licensed(LICENSE)].
