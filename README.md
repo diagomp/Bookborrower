@@ -13,12 +13,12 @@ If you don't want to mesh with code or download the Processing IDE, you can run 
 	- "Name of file" is the name you want the file to have. You musn't include the extension. It must be in double quotes if your name have spaces in it.
 	- num_pages is the total number of pages of the book you want to export.
 #### Run the application (with coding)
-If you already have the Processing IDE available in your PD, follow this steps:
+If you already have the Processing IDE available in your PC, follow this steps:
 1. Clone the project in your maching, or simpli create a new Processing project and copy the code there.
 2. Change the value of the variables `bookName` and `numPages` with the name of the file and the number of pages, respectively.
 3. Compile and run the application.
 #### Getting the file created with Bookborroewer
-Once you have the application running, follow this steps to actualy get your book exported. It is supposed you have the web page in wich with the book you want to export openned.
+Once you have the application running, follow this steps to actualy get your book exported. It is supposed you have the web page in with the book you want to export openned.
 1. In the Bookborrower application window, position the mouse over the 'Next page' button in the web page your book is. Type 'c' to store this position.
 2. Move the cursor to the first corner of the book page. Type 'h' for better positioning of the mouse. Once you are sure your mouse is rigth in the page corner, click the middle mouse button and keep it pressed.
 3. Move the cursor again to the opposite corner of the page (use the 'h' utility if you want), and released the middle mouse button.
