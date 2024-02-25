@@ -1,11 +1,11 @@
 # Bookborrower
 ### A simple application to export to PDF those documents that are not supposed to be exported in PDF
-There are some book pages that let you visualize books but don't allow you to export them to PDF. Bookborrower solve this problem by systematically capturing screenshots of the pages and saving them as a PDF.
+There are some book web platforms that let you visualize books but don't allow you to export them to PDF. Bookborrower solve this problem by systematically capturing screenshots of the book pages and saving them as a PDF.
 
 ### How to use Bookborrower
 #### Run the application (without coding)
 If you don't want to mesh with code or download the Processing IDE, you can run this application as an .exe file. In this case follow this steps:
-1. Download [bookborrower.exe(bookborrower.exe)]
+1. Download [bookborrower.exe](bookborrower.exe)
 2. Open the folder you downloaded it
 3. Type 'cmd' in the path bar to open the windows command line.
 4. In the console, type the following:
@@ -33,4 +33,4 @@ This app was developed rapidly to use its functionality as soon as posible. This
 - [ ] Improve performance by reading the screen only when it is needed (when positioning the book page in the window, and when taking a screenshot).
 
 ### License
-This project is [MIT Licensed(LICENSE)].
+This project is [MIT Licensed](LICENSE).
